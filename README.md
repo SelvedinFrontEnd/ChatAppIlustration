@@ -6,7 +6,7 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 
 - Solution URL: [Solution]()
 
-- Live Site URL: [Site]()
+- Live Site URL: [Site](https://chatappilustrationselvex.netlify.app)
 
 ### Built with
 
