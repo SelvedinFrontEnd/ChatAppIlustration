@@ -4,7 +4,7 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Solution]()
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY/hub)
 
 - Live Site URL: [Site](https://chatappilustrationselvex.netlify.app)
 
